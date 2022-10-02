@@ -1,0 +1,785 @@
+######################################################
+#              Anime Genre Collections               #
+#               Based on anisearch.com               #
+######################################################
+
+metadata:
+  83996: #Black Butler (2008)
+    genre.sync: Actiondrama, Alltagsleben, Bionische Kräfte, Charakterstarker Held, Dialogwitz, Drama, Dunkle Fantasy, Dämonen, Fantasy, Himmlische Wesen, Historisch, Industrialisierung, Komödie, Krimi, Magie, Mystery, PSI-Kräfte, Stoischer Held
+    label: Autumn 2008, Summer 2010, Summer 2014
+    
+  133341: #Durarara!! (2010)
+    genre.sync: Action, Charakterschwacher Held, Dialogwitz, Drama, Gedächtnisverlust, Gegenwart, Komödie, Mystery, Oberschule, Romanze, Thriller, Verworrene Handlung
+    label: Winter 2009/10, Winter 2014/15, Summer 2015, Winter 2015/16
+    
+  327572: #Kakegurui (2017)
+    genre.sync: Charakterschwacher Held, Charakterstarke Heldin, Charakterstarker Held, Denk- und Glücksspiele, Drama, Ganbatte, Gegenwart, Genie, Idol, Mystery, Psychodrama, Schule, Sport, Stoische Heldin, Thriller, Yandere
+    label: Summer 2017, Winter 2018/19
+    
+  318161: #Little Witch Academia (2017)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarke Heldin, Diva, Drama, Fantasy, Gegenwart, Hexen, Komödie, Magie, Moe, Schule, Scifi, Slapstick, Zeitgenössische Fantasy
+    label: Winter 2016/17
+    
+  83322: #A Certain Magical Index (2008)
+    genre.sync: Action, Alltagsleben, Bionische Kräfte, Drama, Ecchi, Fantasy, Gedächtnisverlust, Komödie, Magie, Militär, Moe, PSI-Kräfte, Scifi, Übermäßige Gewaltdarstellung
+    label: Autumn 2008, Autumn 2010, Autumn 2018
+    
+  360438: #A Certain Scientific Accelerator (2019)
+    genre.sync: Abenteuer, Action, Fantasy, Komödie, Magie, PSI-Kräfte, Schule, Scifi, Übermäßige Gewaltdarstellung
+    label: Summer 2019
+    
+  114921: #A Certain Scientific Railgun (2009)
+    genre.sync: Action, Alltagsleben, Bionische Kräfte, Charakterstarke Heldin, Drama, Ecchi, Episodisch, Fantasy, Girls Love, Komödie, Krimi, Magie, PSI-Kräfte, Schule, Schusswaffen, Scifi, Tragödie
+    label: Autumn 2009, Spring 2013, Winter 2019/20
+    
+  337623: #A Place Further Than the Universe (2018)
+    genre.sync: Abenteuer, Alltagsleben, Drama, Erwachsenwerden, Gegenwart, Komödie, Oberschule, Slapstick
+    label: Winter 2017/18
+    
+  248035: #Blue Exorcist (2011)
+    genre.sync: Action, Dämonen, Fantasy, Fighting-Shounen, Gegenwart, Komödie, Schusswaffen, Schwerter & Co, Zeitgenössische Fantasy
+    label: Spring 2011, Winter 2016/17
+    
+  80644: #Clannad (2007)
+    genre.sync: Alltagsleben, Erwachsenwerden, Gegenwart, Harem, Komödie, Moe, Oberschule, Romanze, Schule, Sentimentales Drama, Theater, Tragödie
+    label: Autumn 2007
+    
+  336404: #Death March to the Parallel World Rhapsody (2018)
+    genre.sync: Abenteuer, Alltagsleben, Alternative Welt, Charakterstarker Held, Dämonen, Ecchi, Elfen, Fantasy, Genie, Harem, Himmlische Wesen, Isekai, Kemonomimi, Komödie, Magie, Monster, Romanze, Schwerter & Co
+    label: Winter 2017/18
+    
+  355774: #Dr. Stone (2019)
+    genre.sync: Abenteuer, Abenteuerkomödie, Action, Charakterstarker Held, Drama, Fantasy, Genie, Komödie, Scifi, Slapstick
+    label: Summer 2019
+    
+  79228: #Ergo Proxy (2006)
+    genre.sync: Abenteuer, Actiondrama, Bionische Kräfte, Cyberpunk, Detektiv, Endzeit, Gedächtnisverlust, Monster, Mystery, PSI-Kräfte, Psychodrama, Roboter & Androiden, Scifi, Thriller, Verworrene Handlung
+    label: Winter 2005/06
+    
+  338455: #Golden Kamuy (2018)
+    genre.sync: Abenteuer, Action, Charakterstarker Held, Drama, Historisch, Meiji-Ära, Militär, Schusswaffen, Schwerter & Co, Stoische Heldin
+    label: Spring 2018
+    
+  79076: #Hunter x Hunter (1999)
+    genre.sync: Abenteuer, Action, Alternative Welt, Bionische Kräfte, Drama, Fantasy, Fighting-Shounen, Kampfkunst, Komödie, Magie, PSI-Kräfte, Splatter, Übermäßige Gewaltdarstellung
+    label: Autumn 1999
+
+  252322: #Hunter x Hunter (2011)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarker Held, Drama, Dunkle Fantasy, Erwachsenwerden, Fantasy, Fighting-Shounen, Ganbatte, Genie, Kampfkunst, Komödie, Kopfgeldjäger, Magie, Monster, PSI-Kräfte, Slapstick, Splatter, Tragödie, Tsundere, Übermäßige Gewaltdarstellung
+    label: Autumn 2011
+
+  80158: #Ikki Tousen (2003)
+    genre.sync: Action, Bionische Kräfte, Ecchi, Gegenwart, Historisch, Kampfkunst, Komödie, Magie, Maid, PSI-Kräfte, Schule, Slapstick
+    label: Summer 2003, Winter 2006/07, Spring 2008, Spring 2010
+    
+  402831: #In the Land of Leadale (2022)
+    genre.sync: Abenteuer, Alternative Welt, Elfen, Fantasy, Isekai, Komödie, Magie
+    label: Winter 2021/22
+    
+  321535: #KADO: The Right Answer (2017)
+    genre.sync: Außerirdische, CG-Anime, Drama, Gegenwart, Genie, Mystery, PSI-Kräfte, Psychodrama, Scifi, Stoischer Held
+    label: Spring 2017
+    
+  305082: #Kabaneri of the Iron Fortress (2016)
+    genre.sync: Abenteuer, Action, Charakterstarke Heldin, Charakterstarker Held, Drama, Endzeit, Historisch, Horror, Industrialisierung, Mystery, Samurai, Schusswaffen, Schwerter & Co, Splatter, Tsundere, Zombie, Überlebenskampf
+    label: Spring 2016
+    
+  262094: #Magi: The Labyrinth of Magic (2012)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarker Held, Dialogwitz, Drama, Epische Fantasy, Erwachsenwerden, Fantasy, Historisch, Kampfkunst, Komödie, Magie, Monster, Romanze, Schwerter & Co, Slapstick, Splatter, Stoische Heldin
+    label: Autumn 2012, Autumn 2013
+    
+  286856: #Maria the Virgin Witch (2015)
+    genre.sync: Abenteuer, Charakterstarke Heldin, Dialogwitz, Drama, Dämonen, Ecchi, Fantasy, Hexen, Himmlische Wesen, Historisch, Komödie, Krieg, Magie, Mittelalter, Romanze, Schwerter & Co, Übermäßige Gewaltdarstellung
+    label: Winter 2014/15
+    
+  352408: #That Time I Got Reincarnated as a Slime (2018)
+    genre.sync: Abenteuer, Action, Alternative Welt, Dämonen, Fantasy, Isekai, Komödie, Magie, Monster, Schwerter & Co, Tiermenschen
+    label: Autumn 2018, Winter 2020/21, Summer 2021
+    
+  318893: #Miss Kobayashi's Dragon Maid (2017)
+    genre.sync: Alltagsleben, Büroangestellter, Dialogwitz, Ecchi, Fantasy, Gegenwart, Girls Love, Grundschule, Kampfkunst, Komödie, Magie, Moe, Monster, Otaku, Parodie, Slapstick, Stoische Heldin, Tiermenschen, Tomboy, Zeitgenössische Fantasy
+    label: Winter 2016/17, Summer 2021
+    
+  307375: #Mob Psycho 100 (2016)
+    genre.sync: Actionkomödie, Alltagsleben, Charakterschwacher Held, Dämonen, Gegenwart, Geister, PSI-Kräfte, Psychodrama, Schule
+    label: Summer 2016, Winter 2018/19, Autumn 2022
+    
+  272073: #Nagi-Asu: A Lull in the Sea (2013)
+    genre.sync: Alltagsleben, Alternative Welt, Drama, Fantasy, Romanze, Schule, Zeitgenössische Fantasy
+    label: Autumn 2013
+    
+  386818: #Noblesse (2020)
+    genre.sync: Actiondrama, Dialogwitz, Gegenwart, Komödie, Oberschule, PSI-Kräfte, Splatter, Stoischer Held, Vampire
+    label: Autumn 2020
+    
+  293088: #One-Punch Man (2015)
+    genre.sync: Actionkomödie, Außerirdische, Cyborgs, Fantasy, Gegenwart, Kampfkunst, Monster, Mystery, PSI-Kräfte, Parodie, Roboter & Androiden, Scifi, Splatter, Stoischer Held
+    label: Autumn 2015, Spring 2019
+    
+  369140: #Pet (2020)
+    genre.sync: Drama, Erwachsenwerden, Fantasy, Gegenwart, Krimi, Mafia, Mystery, PSI-Kräfte, Psychodrama, Thriller, Tragödie
+    label: Winter 2019/20
+    
+  289907: #Punch Line (2015)
+    genre.sync: Abenteuer, Actionkomödie, Alltagsleben, Bionische Kräfte, Charakterstarker Held, Drama, Ecchi, Gegenwart, Geister, Gender Bender, Idol, Kampfkunst, Parodie, Roboter & Androiden, Scifi, Slapstick, Solosänger, Verworrene Handlung
+    label: Spring 2015
+    
+  352854: #RErideD – Derrida, who leaps through time – (2018)
+    genre.sync: Actiondrama, Romanze, Scifi, Zeitgenössische Fantasy
+    label: Autumn 2018
+    
+  405920: #SPY x FAMILY (2022)
+    genre.sync: Actionkomödie, Alltagsleben, Auftragsmörder / Attentäter, Charakterstarke Heldin, Charakterstarker Held, Drama, Fantasy, Gegenwart, Geheimagent, Grundschule, Kopfgeldjäger, PSI-Kräfte, Romanze, Schule, Zeitgenössische Fantasy
+    label: Spring 2022
+    
+  79127: #Samurai 7 (2004)
+    genre.sync: Abenteuer, Actiondrama, Alltagsleben, Alternative Welt, Endzeit, Mecha, Real Robots, Roboter & Androiden, Samurai, Schwerter & Co, Scifi
+    label: Spring 2004
+    
+  79645: #Scrapped Princess (2003)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Drama, Epische Fantasy, Fantasy, Magie, PSI-Kräfte, Scifi
+    label: Spring 2003
+    
+  82807: #Sekirei (2008)
+    genre.sync: Actionkomödie, Bionische Kräfte, Ecchi, Gegenwart, Harem, Kampfkunst, Magie, PSI-Kräfte, Romanze, Slapstick, Widerwilliger Held, Zeitgenössische Fantasy
+    label: Summer 2008
+    
+  87881: #Sengoku Basara: Samurai Kings (2009)
+    genre.sync: Action, Altes Asien, Bionische Kräfte, Fighting-Shounen, Historisch, Kampfkunst, Komödie, Krieg, Magie, PSI-Kräfte, Samurai, Schwerter & Co, Übermäßige Gewaltdarstellung
+    label: Spring 2009
+    
+  396876: #Shadows House (2021)
+    genre.sync: Alltagsleben, Drama, Maid, Mystery
+    label: Spring 2021, Summer 2022
+    
+  78962: #Shakugan no Shana (2005)
+    genre.sync: Action, Bionische Kräfte, Drama, Dämonen, Fantasy, Gegenwart, Komödie, Magie, Mittelschule, Moe, Monster, PSI-Kräfte, Romanze, Schwerter & Co, Tsundere, Zeitgenössische Fantasy
+    label: Autumn 2005
+    
+  402117: #Shikimori's Not Just a Cutie (2022)
+    genre.sync: Alltagsleben, Gegenwart, Romantische Komödie, Schule, Slapstick
+    label: Spring 2022
+    
+  284073: #Shomin Sample (2015)
+    genre.sync: Alltagsleben, Dialogwitz, Ecchi, Gegenwart, Genie, Harem, Moe, Parodie, Romantische Komödie, Schule, Slapstick, Tsundere, Widerwilliger Held
+    label: Autumn 2015
+    
+  372534: #SING "YESTERDAY" FOR ME (2020)
+    genre.sync: Alltagsleben, Drama, Gegenwart, Romanze
+    label: Spring 2020
+    
+  401279: #Skeleton Knight in Another World (2022)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarker Held, Drama, Ecchi, Elfen, Epische Fantasy, Fantasy, Isekai, Kemonomimi, Komödie, Magie, Monster, Ninja, Ritter, Schwerter & Co
+    label: Spring 2022
+    
+  377902: #So I’m a Spider, So What? (2021)
+    genre.sync: Abenteuer, Actionkomödie, Alternative Welt, Drama, Fantasy, Isekai, Monster
+    label: Winter 2020/21
+    
+  244061: #Steins;Gate (2011)
+    genre.sync: Charakterstarker Held, Dialogwitz, Drama, Gegenwart, Gender Bender, Genie, Komödie, Maid, Mystery, Psychodrama, Romanze, Scifi, Sentimentales Drama, Thriller, Verworrene Handlung, Zeitreise, Zeitschleife
+    label: Spring 2011
+    
+  339268: #Steins;Gate 0 (2018)
+    genre.sync: Charakterstarker Held, Dialogwitz, Drama, Gegenwart, Genie, Komödie, Maid, Mystery, Psychodrama, Romanze, Scifi, Thriller, Zeitreise
+    label: Spring 2018
+    
+  259634: #Tari Tari (2012)
+    genre.sync: Alltagsdrama, Erwachsenwerden, Ganbatte, Gegenwart, Klubs, Komödie, Musik, Oberschule, Schule, Solosänger, Widerwillige Heldin
+    label: Summer 2012
+    
+  374787: #The 8th Son? Are You Kidding Me? (2020)
+    genre.sync: Abenteuer, Action, Drama, Fantasy, Harem, Isekai, Magie, Romanze, Schwerter & Co
+    label: Spring 2020
+    
+  401920: #The Dawn of the Witch (2022)
+    genre.sync: Abenteuer, Actionkomödie, Alternative Welt, Ecchi, Fantasy, Hexen, Magie, Schule, Schwerter & Co
+    label: Spring 2022
+    
+  401915: #The Faraway Paladin (2021)
+    genre.sync: Abenteuer, Action, Alternative Welt, Dämonen, Elfen, Fantasy, Geister, Himmlische Wesen, Isekai, Magie, Mittelalter, Mystery, Schwerter & Co
+    label: Autumn 2021
+    
+  402636: #The Fruit of Evolution: Before I Knew It, My Life Had It Made (2021)
+    genre.sync: Abenteuer, Actionkomödie, Alternative Welt, Drama, Fantasy, Harem, Isekai, Kemonomimi, Magie, Monster, Romanze, Schwerter & Co
+    label: Autumn 2021
+    
+  402652: #The Greatest Demon Lord Is Reborn as a Typical Nobody (2022)
+    genre.sync: Actionkomödie, Alternative Welt, Ecchi, Fantasy, Harem, Magie, Schwerter & Co
+    label: Spring 2022
+    
+  296072: #The Perfect Insider (2015)
+    genre.sync: Detektiv, Gegenwart, Genie, Krimi, Stoischer Held, Verworrene Handlung
+    label: Autumn 2015
+    
+  355966: #The Quintessential Quintuplets (2019)
+    genre.sync: Alltagsleben, Charakterstarke Heldin, Dialogwitz, Ecchi, Erwachsenwerden, Gegenwart, Genie, Harem, Oberschule, Romantische Komödie, Schule, Tsundere
+    label: Winter 2018/19, Winter 2020/21
+    
+  353712: #The Rising of the Shield Hero (2019)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarke Heldin, Charakterstarker Held, Drama, Fantasy, Harem, Isekai, Kemonomimi, Komödie, Magie, Militär, Monster, Psychodrama, Romanze, Schwerter & Co, Tiermenschen, Verschwörung, Widerwilliger Held, Zeitgenössische Fantasy
+    label: Winter 2018/19, Spring 2022
+    
+  398193: #The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat (2021)
+    genre.sync: Abenteuer, Action, Alternative Welt, Ecchi, Fantasy, Harem, Isekai, Magie, Romanze, Schusswaffen, Schwerter & Co
+    label: Autumn 2021
+    
+  281249: #Tokyo Ghoul (2014)
+    genre.sync: Action, Drama, Fantasy, Gegenwart, Horror, Kampfkunst, Monster, Mystery, Oberschule, Psychodrama, Splatter, Tragödie, Universität, Zeitgenössische Fantasy, Übermäßige Gewaltdarstellung
+    label: Summer 2014, Winter 2014/15, Spring 2018, Autumn 2018
+    
+  272043: #Tokyo Ravens (2013)
+    genre.sync: Actiondrama, Ecchi, Gegenwart, Gender Bender, Kemonomimi, Komödie, Magie, Oberschule, Romanze, Schwerter & Co, Zeitgenössische Fantasy
+    label: Autumn 2013
+    
+  385077: #TONIKAWA: Over the Moon for You (2020)
+    genre.sync: Alltagsleben, Charakterstarker Held, Gegenwart, Genie, Romantische Komödie, Slapstick
+    label: Autumn 2020
+    
+  412826: #Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs (2022)
+    genre.sync: Abenteuer, Actionkomödie, Adeliger, Alternative Welt, Drama, Elfen, Fantasy, Isekai, Kemonomimi, Magie, Mecha, Ritter, Roboter & Androiden, Romanze, Schule, Schusswaffen, Schwerter & Co, Super Robots, Widerwilliger Held
+    label: Spring 2022
+    
+  249872: #Usagi Drop (2011)
+    genre.sync: Alltagsdrama, Dialogwitz, Gegenwart, Grundschule, Kindergarten, Komödie, Moe
+    label: Summer 2011
+    
+  359095: #We Never Learn: BOKUBEN (2019)
+    genre.sync: Alltagsleben, Gegenwart, Genie, Harem, Oberschule, Romantische Komödie, Schule
+    label: Spring 2019, Autumn 2019
+    
+  369144: #Welcome to Demon-School, Iruma-kun (2019)
+    genre.sync: Alltagsleben, Alternative Welt, Dämonen, Fantasy, Komödie, Schule
+    label: Autumn 2019, Spring 2021
+    
+  79473: #Witchblade (2006)
+    genre.sync: Abenteuer, Actiondrama, Bionische Kräfte, Ecchi, Gedächtnisverlust, Gegenwart, Magie, Monster, PSI-Kräfte, Scifi, Zeitgenössische Fantasy
+    label: Spring 2006
+    
+  78500: #Sailor Moon (1992)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Charakterschwache Heldin, Drama, Dämonen, Fantasy, Gegenwart, Komödie, Magical Girl, Magie, Monster, PSI-Kräfte, Romanze, Schule, Scifi, Slapstick, Widerwillige Heldin, Zeitgenössische Fantasy
+    label: Winter 1991/92, Winter 1992/93, Spring 1994, Winter 1994/95, Spring 1996
+    
+  78916: #Gantz (2004)
+    genre.sync: Action, Außerirdische, Bionische Kräfte, Drama, Ecchi, Erotik, Monster, Mystery, Psychodrama, Schusswaffen, Scifi, Splatter, Überlebenskampf, Übermäßige Gewaltdarstellung
+    label: Spring 2004
+    
+  377543: #Jujutsu Kaisen (2020)
+    genre.sync: Action, Charakterstarke Heldin, Charakterstarker Held, Drama, Dunkle Fantasy, Fantasy, Fighting-Shounen, Gegenwart, Geistergeschichten, Kampfkunst, Komödie, Magie, Monster, Oberschule, Schule, Schwerter & Co, Stoische Heldin, Stoischer Held, Tragödie, Zeitgenössische Fantasy
+    label: Autumn 2020
+    
+  254349: #Another (2012)
+    genre.sync: Drama, Gegenwart, Geister, Horror, Moe, Mystery, Psychodrama, Schule, Splatter, Thriller, Tragödie, Übermäßige Gewaltdarstellung
+    label: Winter 2011/12
+    
+  79755: #Afro Samurai (2007)
+    genre.sync: Action, Alternative Welt, Fantasy, Fighting-Shounen, Historisch, Parodie, Samurai, Schwerter & Co, Scifi, Splatter, Übermäßige Gewaltdarstellung
+    label: Winter 2006/07
+    
+  272317: #Arpeggio of Blue Steel -Ars Nova- (2013)
+    genre.sync: Action, CG-Anime, Krieg, Moe, Roboter & Androiden, Scifi, Super Robots
+    label: Autumn 2013
+    
+  289679: #Charlotte (2015)
+    genre.sync: Action, Charakterstarke Heldin, Charakterstarker Held, Drama, Gegenwart, Komödie, Mystery, Oberschule, PSI-Kräfte, Romanze, Scifi, Thriller, Tragödie
+    label: Summer 2015
+    
+  332159: #Children of the Whales (2017)
+    genre.sync: Abenteuer, Action, Alternative Welt, Drama, Fantasy, Krieg, PSI-Kräfte, Psychodrama, Romanze, Übermäßige Gewaltdarstellung
+    label: Autumn 2017
+    
+  79995: #Claymore (2007)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Charakterstarke Heldin, Drama, Fantasy, Fighting-Shounen, Historisch, Horror, Magie, Mittelalter, Monster, PSI-Kräfte, Schwerter & Co, Splatter, Youkai, Übermäßige Gewaltdarstellung
+    label: Spring 2007
+    
+  257852: #Dusk Maiden of Amnesia (2012)
+    genre.sync: Detektiv, Ecchi, Gegenwart, Geister, Geister­geschichten, Klubs, Komödie, Liebesdrama, Mystery, Psychodrama, Schule
+    label: Spring 2012
+    
+  326332: #Fate/Apocrypha (2017)
+    genre.sync: Actiondrama, Charakterstarker Held, Fantasy, Gegenwart, Magie, Mystery, Ritter, Romanze, Schwerter & Co, Zeitgenössische Fantasy
+    label: Summer 2017
+    
+  278626: #Fate/Stay Night: Unlimited Blade Works (2014)
+    genre.sync: Actiondrama, Bionische Kräfte, Fantasy, Gegenwart, Kampfkunst, Magie, PSI-Kräfte, Romanze, Schwerter & Co, Zeitgenössische Fantasy, Übermäßige Gewaltdarstellung
+    label: Autumn 2014, Winter 2014/15
+    
+  267441: #The Devil Is a Part-Timer! (2013)
+    genre.sync: Action, Alltagsleben, Alternative Welt, Dialogwitz, Dämonen, Fantasy, Gegenwart, Himmlische Wesen, Isekai, Komödie, Magie, Romanze, Schwerter & Co, Zeitgenössische Fantasy
+    label: Spring 2013
+    
+  79099: #.hack (2002)
+    genre.sync: Abenteuer, Action, Alternative Welt, Drama, Fantasy, Gedächtnisverlust, Gegenwart, Isekai, Komödie, Magie, Mystery, Psychodrama, Schwerter & Co, Scifi, Slapstick, Virtuelle Welt
+    label: Spring 2002, Winter 2002/03
+    
+  275798: #Fate/Zero (2011)
+    genre.sync: Abenteuer, Actiondrama, Charakterstarke Heldin, Dunkle Fantasy, Fantasy, Gegenwart, Kampfkunst, Magie, Ritter, Schusswaffen, Schwerter & Co, Stoischer Held, Tragödie, Zeitgenössische Fantasy, Überlebenskampf, Übermäßige Gewaltdarstellung
+    label: Autumn 2011, Spring 2012
+    
+  75579: #Fullmetal Alchemist (2003)
+    genre.sync: Abenteuer, Action, Alternative Welt, Drama, Erwachsenwerden, Fantasy, Fighting-Shounen, Historisch, Komödie, Magie, Militär, Monster, Tragödie
+    label: Autumn 2003
+    
+  85249: #Fullmetal Alchemist: Brotherhood (2009)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarke Heldin, Charakterstarker Held, Drama, Erwachsenwerden, Fantasy, Fighting-Shounen, Historisch, Komödie, Krieg, Magie, Militär, Monster, Psychodrama, Slapstick, Tragödie, Übermäßige Gewaltdarstellung
+    label: Spring 2009
+    
+  303868: #Grimgar of Fantasy and Ash (2016)
+    genre.sync: Abenteuer, Actiondrama, Alltagsleben, Alternative Welt, Fantasy, Gedächtnisverlust, Isekai, Magie, Monster, Schwerter & Co, Tiermenschen
+    label: Winter 2015/16
+    
+  370377: #ID: INVADED (2020)
+    genre.sync: Action, CG-Anime, Charakterstarker Held, Detektiv, Drama, Gegenwart, Krimi, Mystery, Psychodrama, Scifi, Thriller, Tragödie, Verworrene Handlung, Virtuelle Welt
+    label: Winter 2019/20
+    
+  349993: #Ingress: The Animation (2018)
+    genre.sync: Action, CG-Anime, Mystery, Scifi
+    label: Autumn 2018
+    
+  360708: #Isekai Cheat Magician (2019)
+    genre.sync: Abenteuer, Action, Alternative Welt, Elfen, Fantasy, Isekai, Magie, Schwerter & Co
+    label: Summer 2019
+    
+  261249: #K (2012)
+    genre.sync: Action, Delinquent, Ecchi, Fantasy, Gegenwart, Kampfkunst, Magie, PSI-Kräfte, Schwerter & Co, Zeitgenössische Fantasy
+    label: Autumn 2012, Autumn 2015
+    
+  303867: #KonoSuba: God's Blessing on This Wonderful World! (2016)
+    genre.sync: Abenteuer, Action, Alternative Welt, Dialogwitz, Dieb, Diva, Dämonen, Ecchi, Epische Fantasy, Fantasy, Harem, Himmlische Wesen, Isekai, Komödie, Magie, Mittelalter, Monster, Parodie, Ritter, Schwerter & Co, Slapstick
+    label: Winter 2015/16, Winter 2016/17
+    
+  310718: #Magi: Adventure of Sinbad (2016)
+    genre.sync: Abenteuer, Action, Fantasy, Historisch, Komödie, Tragödie
+    label: Spring 2016
+    
+  354171: #Magical Girl Spec-Ops Asuka (2019)
+    genre.sync: Actiondrama, Charakterstarke Heldin, Gegenwart, Horror, Magical Girl, Magie, Militär, Monster, Psychodrama, Schusswaffen, Schwerter & Co, Splatter, Tragödie, Zeitgenössische Fantasy, Übermäßige Gewaltdarstellung
+    label: Winter 2018/19
+    
+  254931: #Mobile Suit Gundam SEED (2002)
+    genre.sync: Abenteuer, Actiondrama, Krieg, Mecha, Militär, Real Robots, Scifi, Tomboy, Weltraum
+    label: Autumn 2002, Autumn 2004
+    
+  76932: #Ranma ½ (1989)
+    genre.sync: Abenteuer, Action, Ecchi, Episodisch, Gegenwart, Gender Bender, Harem, Kampfkunst, Kampfsport, Magie, Romantische Komödie, Schule, Slapstick
+    label: Autumn 1989
+    
+  79108: #Rumbling Hearts (2003)
+    genre.sync: Alltagsleben, Erotik, Erwachsenwerden, Gegenwart, Liebesdrama, Oberschule, Psychodrama, Tragödie, Universität
+    label: Autumn 2003
+    
+  281275: #Saekano: How to Raise a Boring Girlfriend (2015)
+    genre.sync: Gegenwart, Harem, Komödie, Liebesdrama, Manga & Doujinshi, Oberschule, Otaku, Schule
+    label: Winter 2014/15, Spring 2017
+    
+  361713: #The Ones Within (2019)
+    genre.sync: Alternative Welt, Drama, Mystery
+    label: Summer 2019
+    
+  284585: #The Rolling Girls (2015)
+    genre.sync: Abenteuer, Alltagsleben, Kampfkunst, Magie, Moe, Stoische Heldin
+    label: Winter 2014/15
+    
+  77681: #Slayers (1995)
+    genre.sync: Abenteuer, Abenteuerkomödie, Action, Alltagsleben, Drama, Dämonen, Fantasy, Kampfkunst, Magie, Moe, Monster, Parodie, Slapstick, Stoische Heldin
+    label: Spring 1995, Spring 1996, Spring 1997, Summer 2008, Winter 2008/09
+    
+  81785: #Soul Hunter (1999)
+    genre.sync: Actionkomödie, Fantasy, Historisch, Magie, Mittelalter
+    label: Summer 1999
+    
+  78972: #Speed Grapher (2005)
+    genre.sync: Action, Bionische Kräfte, Detektiv, Drama, Dunkle Fantasy, Gegenwart, Magie, Mystery, PSI-Kräfte, Psychodrama, Romanze, Thriller, Älterer Mann, jüngere Frau, Übermäßige Gewaltdarstellung
+    label: Spring 2005
+    
+  79880: #Utawarerumono (2006)
+    genre.sync: Abenteuer, Action, Alternative Welt, Drama, Epische Fantasy, Fantasy, Gedächtnisverlust, Harem, Krieg, Mecha, Romanze, Samurai, Schwerter & Co, Scifi, Splatter, Tiermenschen, Übermäßige Gewaltdarstellung
+    label: Spring 2006
+    
+  325208: #WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us? (2017)
+    genre.sync: Abenteuer, Actiondrama, Alltagsleben, Charakterstarker Held, Dialogwitz, Endzeit, Fantasy, Gedächtnisverlust, Harem, Kemonomimi, Komödie, Krieg, Militär, Monster, Romanze, Tiermenschen, Tragödie
+    label: Spring 2017
+    
+  78909: #Angelic Layer (2001)
+    genre.sync: Action, Drama, Ganbatte, Gegenwart, Komödie, Schule, Scifi, Slapstick, Sport
+    label: Spring 2001
+    
+  309530: #91 Days (2016)
+    genre.sync: Action, Charakterstarker Held, Drama, Historisch, Krimi, Mafia, Schusswaffen, Splatter, Thriller, Tragödie, Weltkriege, Übermäßige Gewaltdarstellung
+    label: Summer 2016
+    
+  283942: #Yona of the Dawn (2014)
+    genre.sync: Abenteuer, Action, Charakterstarke Heldin, Charakterstarker Held, Drama, Fantasy, Harem, Historisch, Kampfkunst, Komödie, Romanze, Schwerter & Co, Tiermenschen
+    label: Autumn 2014
+    
+  247958: #Anohana: The Flower We Saw That Day (2011)
+    genre.sync: Alltagsleben, Charakterschwache Heldin, Charakterschwacher Held, Delinquent, Drama, Erwachsenwerden, Gegenwart, Geister, Komödie, Romanze, Tragödie
+    label: Spring 2011
+    
+  299505: #AOKANA: Four Rhythm Across the Blue (2016)
+    genre.sync: Alltagsleben, Charakterstarke Heldin, Drama, Ganbatte, Klubs, Oberschule, Scifi, Sport
+    label: Winter 2015/16
+    
+  357019: #Arifureta: From Commonplace to World's Strongest (2019)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarker Held, Drama, Fantasy, Harem, Isekai, Komödie, Magie, Romanze, Schusswaffen, Schwerter & Co, Stoischer Held
+    label: Summer 2019, Winter 2021/22
+    
+  80113: #Earth Maiden Arjuna (2001)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Charakterschwache Heldin, Drama, Endzeit, Erwachsenwerden, Fantasy, Gegenwart, Magie, Monster, PSI-Kräfte, Romanze, Schusswaffen, Scifi, Widerwillige Heldin, Zeitgenössische Fantasy
+    label: Winter 2000/01
+    
+  366460: #BNA: Brand New Animal (2020)
+    genre.sync: Action, Fantasy, Komödie, Krimi, Tiermenschen
+    label: Spring 2020
+    
+  78881: #Basilisk (2005)
+    genre.sync: Actiondrama, Altes Asien, Bionische Kräfte, Historisch, Magie, Ninja, PSI-Kräfte, Romanze, Schwerter & Co, Splatter, Übermäßige Gewaltdarstellung
+    label: Spring 2005, Winter 2017/18
+    
+  276890: #Black Bullet (2014)
+    genre.sync: Action, Charakterstarker Held, Endzeit, Harem, Horror, Kampfkunst, Komödie, Mediziner, Monster, Mystery, Psychodrama, Schusswaffen, Scifi, Tragödie, Übermäßige Gewaltdarstellung
+    label: Spring 2014
+    
+  269875: #Blood Lad (2013)
+    genre.sync: Actionkomödie, Alternative Welt, Charakterstarker Held, Dämonen, Ecchi, Fantasy, Geister, Magie, Mystery, Otaku, Parodie, Romanze, Tiermenschen, Vampire
+    label: Summer 2013
+    
+  74908: #Burst Angel (2004)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Cyberpunk, Ecchi, Komödie, Mecha, Roboter & Androiden, Schusswaffen, Scifi
+    label: Spring 2004
+    
+  79481: #Death Note (2006)
+    genre.sync: Charakterstarker Held, Detektiv, Drama, Fantasy, Gegenwart, Genie, Horror, Kamis, Krimi, Mystery, Polizist, Psychodrama, Thriller, Universität, Verworrene Handlung, Zeitgenössische Fantasy
+    label: Autumn 2006
+    
+  140071: #Demon King Daimao (2010)
+    genre.sync: Actionkomödie, Dämonen, Ecchi, Fantasy, Harem, Hexen, Magie, Roboter & Androiden, Romanze, Schule
+    label: Spring 2010
+    
+  361709: #Demon Lord, Retry! (2019)
+    genre.sync: fantasy, harem, isekai, magic, novel, virtual world
+    label: Summer 2019
+    
+  80224: #Devil May Cry (2007)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarker Held, Drama, Dämonen, Fantasy, Harem, Isekai, Komödie, Magie, Mittelalter, Schwerter & Co, Tsundere
+    label: Summer 2007
+    
+  312559: #Drifters (2016)
+    genre.sync: Abenteuer, Action, Alternative Welt, Altes Asien, Charakterstarker Held, Dialogwitz, Dunkle Fantasy, Elfen, Fantasy, Genie, Historisch, Isekai, Komödie, Krieg, Mittelalter, Monster, Samurai, Schusswaffen, Schwerter & Co, Slapstick, Splatter, Übermäßige Gewaltdarstellung
+    label: Autumn 2016, Winter 2017/18
+    
+  388645: #EDENS ZERO (2021)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Ecchi, Fantasy, Fighting-Shounen, Komödie, Roboter & Androiden, Scifi
+    label: Spring 2021
+    
+  75941: #Elfen Lied (2004)
+    genre.sync: Actiondrama, Bionische Kräfte, Dunkle Fantasy, Ecchi, Gegenwart, Horror, Magie, Mediziner, Moe, PSI-Kräfte, Psychodrama, Romanze, Schusswaffen, Scifi, Sentimentales Drama, Splatter, Tragödie, Universität, Übermäßige Gewaltdarstellung
+    label: Summer 2004
+    
+  303071: #ERASED: Die Stadt, in der es mich nicht gibt (2016)
+    genre.sync: Alltagsleben, Drama, Gegenwart, Grundschule, Krimi, Manga & Doujinshi, Mystery, Psychodrama, Thriller, Tragödie
+    label: Winter 2015/16
+    
+  337018: #Fate/Extra Last Encore (2018)
+    genre.sync: Abenteuer, Actiondrama, Fantasy, Gedächtnisverlust, Magie, Schwerter & Co, Tsundere, Übermäßige Gewaltdarstellung
+    label: Winter 2017/18
+    
+  269319: #Fate/Kaleid Liner Prisma Illya (2013)
+    genre.sync: Actiondrama, Actionkomödie, Alternative Welt, Ecchi, Fantasy, Gegenwart, Grundschule, Komödie, Magical Girl, Magie, Moe, Slapstick, Widerwillige Heldin, Zeitgenössische Fantasy
+    label: Summer 2013, Summer 2014, Summer 2015, Summer 2016
+    
+  342181: #The Piano Forest (2018)
+    genre.sync: Alltagsleben, Charakterstarker Held, Drama, Erwachsenwerden, Ganbatte, Gegenwart, Grundschule, Komödie, Musik, Schule
+    label: Summer 2007
+    
+  78914: #Full Metal Panic! (2002)
+    genre.sync: Action, Actiondrama, Alltagsleben, Charakterstarke Heldin, Charakterstarker Held, Dialogwitz, Gegenwart, Komödie, Mecha, Militär, Real Robots, Romanze, Schule, Schusswaffen, Schwerter & Co, Scifi, Slapstick, Tragödie, Tsundere, Überlebenskampf
+    label: Winter 2001/02, Summer 2005, Spring 2018
+    
+  78919: #Genshiken (2004)
+    genre.sync: Alltagsleben, Anime & Film, Dialogwitz, Episodisch, Gegenwart, Gender Bender, Klubs, Komödie, Manga & Doujinshi, Otaku, Parodie, Romanze, Satire, Schule, Tsundere, Universität
+    label: Autumn 2004, Autumn 2007
+    
+  79306: #Gilgamesh (2003)
+    genre.sync: Action, Bionische Kräfte, Drama, Endzeit, Fantasy, Monster, Mystery, PSI-Kräfte, Psychodrama, Scifi
+    label: Autumn 2003
+    
+  374198: #Gleipnir (2020)
+    genre.sync: Action, Außerirdische, Drama, Ecchi, Gegenwart, Komödie, Mittelschule, Monster, Mystery, Widerwilliger Held, Zeitgenössische Fantasy
+    label: Spring 2020
+    
+  79105: #Haibane Renmei (2002)
+    genre.sync: Alltagsleben, Alternative Welt, Drama, Fantasy, Gedächtnisverlust, Himmlische Wesen, Isekai, Mystery
+    label: Autumn 2002
+    
+  71278: #Hellsing (2001)
+    genre.sync: Action, Charakterschwache Heldin, Charakterstarker Held, Dunkle Fantasy, Gegenwart, Horror, Militär, Monster, Schusswaffen, Splatter, Vampire, Übermäßige Gewaltdarstellung
+    label: Autumn 2001
+
+  333548: #Hellsing: The Dawn (2011)
+    genre.sync: Action, Fantasy, Historisch, Horror, Monster, Splatter, Vampire, Weltkriege
+    label: Summer 2011
+
+  263688: #Hellsing Ultimate (2006)
+    genre.sync: Action, Charakterstarker Held, Dunkle Fantasy, Fantasy, Gegenwart, Horror, Krieg, Militär, Monster, Mystery, Schusswaffen, Splatter, Vampire, Übermäßige Gewaltdarstellung
+    label: Winter 2005/06
+    
+  340011: #Hinamatsuri (2018)
+    genre.sync: Action, Alltagsleben, Erwachsenwerden, Fantasy, Gegenwart, Komödie, Mittelschule, PSI-Kräfte, Slapstick, Widerwilliger Held
+    label: Spring 2018
+    
+  316931: #Interviews with Monster Girls (2017)
+    genre.sync: Action, Alltagsleben, Erwachsenwerden, Fantasy, Gegenwart, Komödie, Mittelschule, PSI-Kräfte, Slapstick, Widerwilliger Held
+    label: Winter 2016/17
+    
+  71361: #InuYasha (2000)
+    genre.sync: Abenteuer, Action, Alternative Welt, Altes Asien, Bionische Kräfte, Charakterstarke Heldin, Charakterstarker Held, Drama, Dämonen, Erwachsenwerden, Fantasy, Fighting-Shounen, Gegenwart, Geistergeschichten, Historisch, Komödie, Magie, Oberschule, PSI-Kräfte, Romanze, Schwerter & Co, Slapstick, Splatter, Tsundere, Youkai, Zeitgenössische Fantasy, Überlebenskampf
+    label: Autumn 2000, Autumn 2009
+    
+  354198: #Kaguya-sama: Love is War (2019)
+    genre.sync: Alltagsleben, Charakterstarke Heldin, Charakterstarker Held, Dialogwitz, Drama, Episodisch, Erwachsenwerden, Gegenwart, Oberschule, Psychodrama, Romantische Komödie, Schule, Slapstick, Tsundere
+    label: Winter 2018/19, Spring 2020, Spring 2022
+    
+  72444: #His and Her Circumstances (1998)
+    genre.sync: Alltagsleben, Drama, Gegenwart, Romantische Komödie, Schule, Slapstick
+    label: Autumn 1998
+    
+  272074: #Kill la Kill (2013)
+    genre.sync: Actionkomödie, Charakterstarke Heldin, Drama, Ecchi, Fighting-Shounen, Gegenwart, Kampfkunst, Mystery, Oberschule, Schwerter & Co, Scifi, Slapstick
+    label: Autumn 2013
+    
+  79179: #Kino's Journey (2003)
+    genre.sync: Abenteuer, Alltagsleben, Drama, Episodisch, Fantasy, Gegenwart, Historisch, Psychodrama, Scifi, Stoische Heldin
+    label: Spring 2003
+    
+  333152: #Kino's Journey: The Beautiful World (2017)
+    genre.sync: Abenteuer, Alltagsleben, Drama, Episodisch, Fantasy, Gegenwart, Historisch, Psychodrama, Scifi
+    label: Autumn 2017
+    
+  79470: #Le Chevalier D'Eon (2006)
+    genre.sync: Action, Detektiv, Drama, Fantasy, Gender Bender, Historisch, Horror, Krimi, Magie, Mystery, Schwerter & Co, Thriller, Tragödie
+    label: Summer 2006
+    
+  70861: #Love Hina (2000)
+    genre.sync: Alltagsleben, Ecchi, Gegenwart, Harem, Romantische Komödie, Slapstick
+    label: Spring 2000, Winter 2000/01
+    
+  284098: #Magic Kaito 1412 (2014)
+    genre.sync: Abenteuer, Action, Charakterstarker Held, Detektiv, Dieb, Gegenwart, Genie, Komödie, Krimi, Oberschule, Polizist, Romanze
+    label: Autumn 2014
+    
+  75869: #Negima! (2005)
+    genre.sync: Action, Alltagsleben, Delinquent, Ecchi, Fantasy, Gegenwart, Harem, Magical Girl, Magie, Romantische Komödie, Schule, Slapstick, Tsundere, Zeitgenössische Fantasy
+    label: Winter 2004/05
+    
+  305488: #Negima!? Magister Negi Magi (2006)
+    genre.sync: Action, Alltagsleben, Ecchi, Gegenwart, Harem, Komödie, Magical Girl, Magie, Parodie, Romanze, Satire, Schule, Zeitgenössische Fantasy
+    label: Autumn 2006
+    
+  371310: #Mushoku Tensei: Jobless Reincarnation (2021)
+    genre.sync: Abenteuer, Action, Alternative Welt, Drama, Dämonen, Elfen, Fantasy, Harem, Isekai, Kemonomimi, Komödie, Magie, Monster, Schwerter & Co, Tsundere
+    label: Winter 2020/21, Autumn 2021
+    
+  79447: #Najica Blitz Tactics (2001)
+    genre.sync: Abenteuer, Action, Ecchi, Episodisch, Gegenwart, Roboter & Androiden, Schusswaffen, Scifi
+    label: Autumn 2001
+    
+  70350: #Neon Genesis Evangelion (1995)
+    genre.sync: Actiondrama, Alltagsleben, Charakterschwacher Held, Charakterstarke Heldin, Endzeit, Erwachsenwerden, Gegenwart, Komödie, Mecha, Militär, Mittelschule, Mystery, Psychodrama, Romanze, Scifi, Stoische Heldin, Super Robots, Thriller, Tragödie, Tsundere, Verworrene Handlung, Widerwilliger Held, Überlebenskampf, Übermäßige Gewaltdarstellung
+    label: Autumn 1995
+    
+  72842: #Ninja Scroll: The Series (2003)
+    genre.sync: Abenteuer, Action, Altes Asien, Dämonen, Ecchi, Fantasy, Historisch, Monster, Ninja, Samurai, Schwerter & Co, Splatter, Übermäßige Gewaltdarstellung
+    label: Spring 2003
+    
+  275610: #Noragami (2014)
+    genre.sync: Abenteuer, Action, Charakterstarke Heldin, Charakterstarker Held, Fantasy, Gegenwart, Geister, Kamis, Kemonomimi, Komödie, PSI-Kräfte, Romanze, Schule, Schwerter & Co, Slapstick, Zeitgenössische Fantasy, Übermäßige Gewaltdarstellung
+    label: Winter 2013/14, Autumn 2015
+    
+  320003: #Nyanko Days (2017)
+    genre.sync: Alltagsleben, Charakterschwache Heldin, Dialogwitz, Episodisch, Gegenwart, Kemonomimi, Komödie, Moe, Schule
+    label: Winter 2016/17
+    
+  399902: #Platinum End (2021)
+    genre.sync: Action, Alltagsleben, Drama, Fantasy, Gegenwart, Himmlische Wesen, Psychodrama, Schule, Splatter, Thriller, Zeitgenössische Fantasy
+    label: Autumn 2021
+    
+  262090: #Psycho-Pass (2012)
+    genre.sync: Action, Charakterstarke Heldin, Charakterstarker Held, Cyberpunk, Drama, Krimi, Militär, Mystery, Polizist, Psychodrama, Schusswaffen, Scifi, Splatter, Thriller, Tragödie, Übermäßige Gewaltdarstellung
+    label: Autumn 2012, Autumn 2014, Autumn 2019
+    
+  81221: #Pumpkin Scissors (2006)
+    genre.sync: Abenteuer, Actiondrama, Alternative Welt, Charakterstarke Heldin, Historisch, Komödie, Krieg, Militär, Schusswaffen, Übermäßige Gewaltdarstellung
+    label: Autumn 2006
+    
+  75411: #Rozen Maiden (2004)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Drama, Fantasy, Gegenwart, Komödie, Magie, Moe, Mystery, PSI-Kräfte, Romanze, Zeitgenössische Fantasy
+    label: Autumn 2004, Autumn 2005
+    
+  315500: #Saga of Tanya the Evil (2017)
+    genre.sync: Action, Alternative Welt, Charakterstarke Heldin, Drama, Dunkle Fantasy, Fantasy, Isekai, Krieg, Magie, Militär, Schusswaffen, Weltkriege, Widerwillige Heldin
+    label: Winter 2016/17
+    
+  79089: #Samurai Champloo (2004)
+    genre.sync: Abenteuer, Action, Dialogwitz, Episodisch, Historisch, Kampfkunst, Komödie, Samurai, Schwerter & Co, Übermäßige Gewaltdarstellung
+    label: Spring 2004
+    
+  79857: #Shaman King (2001)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Fantasy, Fighting-Shounen, Gegenwart, Geister, Kampfkunst, Komödie, Magie, PSI-Kräfte, Schwerter & Co, Zeitgenössische Fantasy
+    label: Summer 2001
+    
+  346947: #Sirius the Jaeger (2018)
+    genre.sync: Abenteuer, Actiondrama, Fantasy, Kampfkunst, Monster, Mystery, Schusswaffen, Schwerter & Co, Tiermenschen, Vampire
+    label: Summer 2018
+    
+  259642: #So, I Can't Play H! (2012)
+    genre.sync: Ecchi, Gegenwart, Harem, Kamis, Magie, Romantische Komödie, Zeitgenössische Fantasy
+    label: Summer 2012
+    
+  272129: #Strike the Blood (2013)
+    genre.sync: Action, Charakterstarke Heldin, Drama, Dämonen, Ecchi, Fantasy, Gegenwart, Gender Bender, Harem, Hexen, Himmlische Wesen, Komödie, Magie, Monster, Mystery, Oberschule, Romanze, Schwerter & Co, Vampire, Widerwilliger Held, Zeitgenössische Fantasy
+    label: Autumn 2013
+    
+  80096: #Gurren Lagann (2007)
+    genre.sync: Abenteuer, Actionkomödie, Alternative Welt, Außerirdische, Charakterschwacher Held, Drama, Ecchi, Krieg, Mecha, Romanze, Scifi, Super Robots, Tragödie
+    label: Spring 2007
+    
+  78974: #Tenjho Tenge (2004)
+    genre.sync: Action, Bionische Kräfte, Ecchi, Fighting-Shounen, Gegenwart, Kampfkunst, Kampfsport, Komödie, Magie, PSI-Kräfte, Schule
+    label: Spring 2004
+    
+  378556: #The God of High School (2020)
+    genre.sync: Abenteuer, Action, Charakterstarke Heldin, Charakterstarker Held, Drama, Fighting-Shounen, Ganbatte, Gegenwart, Himmlische Wesen, Kampfkunst, Kampfsport, Komödie, Mystery, Schwerter & Co, Slapstick, Übermäßige Gewaltdarstellung
+    label: Summer 2020
+    
+  291630: #The Heroic Legend of Arslan (2015)
+    genre.sync: Abenteuer, Action, Drama, Erwachsenwerden, Fantasy, Historisch, Krieg, Schwerter & Co
+    label: Spring 2015
+    
+  98161: #The Phoenix (2004)
+    genre.sync: Abenteuer, Action, Altes Asien, Drama, Episodisch, Fantasy, Historisch, Krieg, Magie, Romanze, Scifi
+    label: Spring 2004
+    
+  348002: #The Promised Neverland (2019)
+    genre.sync: Abenteuer, Action, Alltagsleben, Alternative Welt, Charakterstarke Heldin, Charakterstarker Held, Drama, Genie, Horror, Monster, Mystery, Psychodrama, Stoischer Held, Thriller, Tragödie, Überlebenskampf
+    label: Winter 2018/19, Winter 2020/21
+    
+  368364: #Toilet-Bound Hanako-kun (2020)
+    genre.sync: Alltagsleben, Gegenwart, Geister, Geister­geschichten, Komödie, Mystery, Oberschule, Romanze, Slapstick, Youkai
+    label: Winter 2019/20
+    
+  83277: #Toradora! (2008)
+    genre.sync: Alltagsleben, Drama, Erwachsenwerden, Gegenwart, Moe, Oberschule, Romantische Komödie, Schule, Sentimentales Drama, Tsundere
+    label: Autumn 2008
+    
+  376729: #Tower of God (2020)
+    genre.sync: Abenteuer, Actiondrama, Alternative Welt, Diva, Fantasy, Ganbatte, Kampfkunst, Komödie, Magie, Monster, Mystery, PSI-Kräfte, Schusswaffen, Schwerter & Co, Tiermenschen, Tragödie, Widerwilliger Held, Überlebenskampf
+    label: Spring 2020
+    
+  81816: #Vampire Knight (2008)
+    genre.sync: angst, bishounen, contemporary fantasy, fantasy, love polygon, manga, romance, shoujo, tragedy, vampire
+    label: Spring 2008
+    
+  330139: #Violet Evergarden (2018)
+    genre.sync: Abenteuer, Alltagsleben, Episodisch, Historisch, Krieg, Romanze, Schusswaffen, Sentimentales Drama, Stoische Heldin, Tragödie, Weltkriege
+    label: Winter 2017/18
+    
+  220141: #Wolverine (2011)
+    genre.sync: Action, Alternative Welt, Charakterstarker Held, Cyborgs, Drama, Gegenwart, Kampfsport, Roboter & Androiden, Romanze, Schwerter & Co, Tragödie
+    label: Winter 2010/11
+
+  407833: #Aharen-san wa Hakarenai (2022)
+    genre.sync: Alltagsleben, Gegenwart, Oberschule, Romantische Komödie, Schule
+    label: Spring 2022
+
+  305075: #Bungo Stray Dogs (2016)
+    genre.sync: Actionkomödie, Detektiv, Drama, Fantasy, Gegenwart, Kampfkunst, Krimi, Mafia, Mystery, Romanze, Schusswaffen, Schwerter & Co, Slapstick, Splatter, Thriller, Tragödie
+    label: Spring 2016, Autumn 2016, Spring 2019
+
+  389459: #Burn the Witch (2020)
+    genre.sync: Action, Charakterstarke Heldin, Fantasy, Fighting-Shounen, Gegenwart, Hexen, Komödie, Magie, Zeitgenössische Fantasy
+    label: Autumn 2020
+
+  389377: #I've Been Killing Slimes for 300 Years and Maxed Out My Level (2021)
+    genre.sync: Action, Alltagsleben, Alternative Welt, Dämonen, Elfen, Fantasy, Hexen, Isekai, Komödie, Magie, Monster, Slapstick
+    label: Spring 2021
+
+  368565: #In/Spectre (2020)
+    genre.sync: Action, Charakterstarke Heldin, Charakterstarker Held, Drama, Gegenwart, Geister, Geistergeschichten, Kamis, Komödie, Krimi, Mystery, Psychodrama, Romanze, Splatter, Thriller, Youkai, Älterer Mann, jüngere Frau, Übermäßige Gewaltdarstellung
+    label: Winter 2019/20
+
+  220571: #Is This A Zombie? (2011)
+    genre.sync: Action, Ecchi, Gegenwart, Gender Bender, Harem, Magical Girl, Magie, Romantische Komödie, Schwerter & Co, Slapstick, Splatter, Vampire, Zeitgenössische Fantasy, Zombie
+    label: Winter 2010/11
+
+  370931: #Magia Record: Puella Magi Madoka Magica Side Story (2020)
+    genre.sync: Actiondrama, Charakterstarke Heldin, Fantasy, Gedächtnisverlust, Gegenwart, Hexen, Magical Girl, Magie, Mystery, Psychodrama, Stoische Heldin, Tsundere, Zeitgenössische Fantasy
+    label: Winter 2019/20, Summer 2021, Spring 2022
+
+  87861: #Pandora Hearts (2009)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Drama, Fantasy, Frühe Neuzeit, Horror, Komödie, Magie, Mystery, PSI-Kräfte, Übermäßige Gewaltdarstellung
+    label: Spring 2009
+
+  219181: #Puella Magi Madoka Magica (2011)
+    genre.sync: Action, Drama, Dunkle Fantasy, Fantasy, Gegenwart, Hexen, Magical Girl, Magie, Mittelschule, Moe, Monster, Mystery, Psychodrama, Schusswaffen, Schwerter & Co, Tragödie, Verworrene Handlung, Zeitgenössische Fantasy
+    label: Winter 2010/11
+
+  355480: #Fire Force (2019)
+    genre.sync: Abenteuer, Action, Charakterstarker Held, Drama, Ecchi, Fantasy, Kampfkunst, Komödie, Scifi
+    label: Summer 2019, Summer 2020
+
+  361218: #Given (2019)
+    genre.sync: Alltagsleben, Band, Boys Love, Charakterstarker Held, Erwachsenwerden, Gegenwart, Komödie, Liebesdrama, Musik, Oberschule, Schule, Slapstick, Tragödie, Universität
+    label: Summer 2019
+
+  76703: #Pokémon (1997)
+    genre.sync: Abenteuer, Action, Alternative Welt, Episodisch, Fantasy, Komödie, Monster
+    label: Spring 1997
+  
+  78857: #Naruto (2002)
+    genre.sync: Abenteuer, Action, Alternative Welt, Bionische Kräfte, Drama, Fantasy, Fighting-Shounen, Kampfkunst, Komödie, Magie, Monster, Ninja, PSI-Kräfte, Romanze
+    label: Autumn 2002
+  
+  79824: #Naruto Shippuden (2007)
+    genre.sync: Abenteuer, Action, Bionische Kräfte, Charakterstarker Held, Drama, Fantasy, Fighting-Shounen, Kampfkunst, Komödie, Magie, Ninja, PSI-Kräfte, Slapstick
+    label: Winter 2006/07
+
+  321285: #Boruto: Naruto Next Generations (2017)
+    genre.sync: Abenteuer, Action, Alltagsleben, Charakterstarker Held, Drama, Fighting-Shounen, Romanze, Slapstick
+    label: Spring 2017
+
+  259640: #Sword Art Online (2012)
+    genre.sync: Abenteuer, Actiondrama, Alternative Welt, Charakterschwache Heldin, Charakterschwacher Held, Charakterstarke Heldin, Charakterstarker Held, Elfen, Fantasy, Gaming – Videospiele, Gedächtnisverlust, Gegenwart, Harem, Isekai, Krieg, Krimi, Magie, Monster, Romanze, Schusswaffen, Schwerter & Co, Scifi, Splatter, Tragödie, Virtuelle Welt, Zeitgenössische Fantasy, Überlebenskampf, Übermäßige Gewaltdarstellung
+    label: Summer 2012, Summer 2014, Autumn 2018, Autumn 2019, Summer 2020
+
+  335815: #Sword Art Online Alternative: Gun Gale Online (2018)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarke Heldin, Drama, Gaming – Videospiele, Ganbatte, Genie, Schusswaffen, Stoische Heldin, Virtuelle Welt
+    label: Spring 2018
+
+  294002: #Overlord (2015)
+    genre.sync: Abenteuer, Action, Alternative Welt, Charakterstarker Held, Dämonen, Elfen, Epische Fantasy, Fantasy, Geister, Gender Bender, Genie, Isekai, Komödie, Krieg, Magie, Militär, Monster, Mystery, Ritter, Romanze, Schwerter & Co, Scifi, Tiermenschen, Vampire, Zombie
+    label: Summer 2015, Winter 2017/18, Summer 2018, Summer 2022
+  
+  80330: #Zombie-Load (2007)
+    genre.sync: Action, Bionische Kräfte, Dialogwitz, Dämonen, Fighting-Shounen, Gegenwart, Horror, Komödie, Magie, Monster, PSI-Kräfte, Schule, Schusswaffen, Schwerter & Co, Slapstick, Zeitgenössische Fantasy
+    label: Summer 2007
+
+  299511: #Anti Magic Academy: Test-Trupp 35 (2015)
+    genre.sync: Action, Alternative Welt, Charakterstarker Held, Drama, Dämonen, Ecchi, Fantasy, Harem, Hexen, Komödie, Magie, Mecha, Militär, Romanze, Schule, Schusswaffen, Schwerter & Co, Tsundere
+    label: Autumn 2015
+
+  79151: #Fate/Stay Night (2006)
+    genre.sync: Abenteuer, Actiondrama, Charakterstarker Held, Fantasy, Gegenwart, Kampfkunst, Komödie, Magie, Oberschule, PSI-Kräfte, Ritter, Romanze, Schwerter & Co, Stoische Heldin, Tsundere, Zeitgenössische Fantasy, Überlebenskampf, Übermäßige Gewaltdarstellung
+    label: Winter 2005/06
+
+  81751: #Soul Eater (2008)
+    genre.sync: Action, Alternative Welt, Bionische Kräfte, Drama, Dämonen, Ecchi, Fantasy, Fighting-Shounen, Hexen, Komödie, Magie, Monster, PSI-Kräfte, Schusswaffen, Schwerter & Co, Slapstick
+    label: Spring 2008
+
+  278371: #Soul Eater Not!
+    genre.sync: Actionkomödie, Alternative Welt, Fantasy, Hexen, Magie, Schule, Schwerter & Co, Tsundere
+    label: Spring 2014
+
+  311014: #Tales of Zestiria the X (2016)
+    genre.sync: Abenteuer, Action, Fantasy, Magie, Schwerter & Co
+    label: Summer 2016, Winter 2016/17

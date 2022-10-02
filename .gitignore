@@ -1,0 +1,9 @@
+
+Anime Filme_Metadata_Backup.yml
+Anime Serien_Metadata_Backup.yml
+.ash_history
+**/logs
+**/overlays
+UUID
+config.cache
+config.yml

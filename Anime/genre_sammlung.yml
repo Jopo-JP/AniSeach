@@ -1,0 +1,213 @@
+templates:
+  Genre:
+    sort_title: +02_<<collection_name>>
+    collection_mode: hide
+    plex_search:
+      all:
+        genre: <<genre>>
+
+collections:
+  Isekai:
+    template: { name: Genre, genre: Isekai }
+    summary: "Mindestens eine Hauptfigur wird, zumeist unbeabsichtigt, aus ihrer eigenen Welt in eine alternative, fremde Welt transferiert oder dort wiedergeboren. Eine Rückkehr in die ursprüngliche Welt ist in der Regel nicht oder nur beschränkt möglich."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Isekai.jpg
+
+  Monster:
+    template: { name: Genre, genre: Monster }
+    summary: "Einer der Protagonisten oder die Gegenspieler sind Monster."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Monster.jpg
+
+  Zombie:
+    template: { name: Genre, genre: Zombie }
+    summary: "Einer der Protagonisten oder die Gegenspieler sind Zombies."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Zombie.jpg
+
+  Geister:
+    template: { name: Genre, genre: Geister }
+    summary: "Einer der Protagonisten oder die Gegenspieler sind Geister (hier ist nur die Seele eines verstorbenen Menschen gemeint, keine Geisterwesen)."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Geister.jpg
+
+  Kamis:
+    template: { name: Genre, genre: Kamis }
+    summary: "Einer der Protagonisten oder die Gegenspieler sind japanische Gottheiten."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Kamis.jpg
+
+  PSI-Kräfte:
+    template: { name: Genre, genre: PSI-Kräfte }
+    summary: "Die Protagonisten besitzen und benutzen Kräfte, die auf Gedankenkraft beruhen (zum Beispiel Telepathie, Telekinese)."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/PSI-Kr%C3%A4fte.jpg
+
+  Kemonomimi:
+    template: { name: Genre, genre: Kemonomimi }
+    summary: "Einer der Protagonisten oder die Gegenspieler sind Menschen mit Tierohren oder -schwänzen."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Kemonomimi.jpg
+
+  Virtuelle Welt:
+    template: { name: Genre, genre: Virtuelle Welt }
+    summary: "Der Titel spielt in einer virtuellen Realität, etwa in einem Videospiel."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Virtuelle%20Welt.jpg
+
+  Abenteuer:
+    template: { name: Genre, genre: Abenteuer }
+    summary: "Der Titel handelt von ereignis- und risikoreichen Unternehmungen seiner Protagonisten; oft an Orte, die ihnen vorher nicht bekannt waren."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Abenteuer.jpg
+
+  Action:
+    template: { name: Genre, genre: Action }
+    summary: "Dreht sich um Kampf und Gewalt."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Action.jpg
+
+  Alltagsleben:
+    template: { name: Genre, genre: Alltagsleben }
+    summary: "Der Titel beschäftigt sich mit dem ruhigen und gewöhnlichen Alltagsleben seiner Protagonisten."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Alltagsleben.jpg
+
+  Abenteuerkomödie:
+    template: { name: Genre, genre: Abenteuerkomödie }
+    summary: "Heiteres Abenteuer, das die Leute öfters zum Lachen bringt."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Abenteuerkom%C3%B6die.jpg
+
+  Actionkomödie:
+    template: { name: Genre, genre: Actionkomödie }
+    summary: "Heiteres Abenteuer, das die Leute öfters zum Lachen bringt."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Actionkom%C3%B6die.jpg
+
+  Actiondrama:
+    template: { name: Genre, genre: Actiondrama }
+    summary: "Action, die neben dem Kämpfen auch Wert auf ausgearbeitete Charaktere und soziale Konflikte legt."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Actiondrama.jpg
+
+  Dunkle Fantasy:
+    template: { name: Genre, genre: Dunkle Fantasy }
+    summary: "Dieses Untergenre der Fantasy ist pessimistischer und weniger idealisiert, als es Fantasy im Allgemeinen ist."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Dunkle%20Fantasy.jpg
+
+  Adeliger:
+    template: { name: Genre, genre: Adeliger }
+    summary: "Mindestens einer der Protagonisten ist ein Adeliger."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Adeliger.jpg
+
+  Alltagsdrama:
+    template: { name: Genre, genre: Alltagsdrama }
+    summary: "Ein ruhiges, manchmal auch nüchternes Drama über alltägliche Konflikte."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Alltagsdrama.jpg
+
+  Älterer Mann‚ jüngere Frau:
+    template: { name: Genre, genre: Älterer Mann‚ jüngere Frau }
+    summary: "Liebesgeschichte, bei der der Mann auffällig älter als die Frau ist."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/%C3%84lterer%20Mann%2C%20j%C3%BCngere%20Frau.jpg
+
+  Alternative Welt:
+    template: { name: Genre, genre: Alternative Welt }
+    summary: "Der Titel spielt in einer Welt, die sich grundsätzlich von der realen Erde unterscheidet (zum Beispiel ein fremder Planet oder eine Phantasiewelt)."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Alternative%20Welt.jpg
+
+  Altes Asien:
+    template: { name: Genre, genre: Altes Asien }
+    summary: "Das Setting lehnt sich an das historische Japan bzw. China vor der Meiji-Ära an (vor 1868)."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Altes%20Asien.jpg
+
+  Anime & Film:
+    template: { name: Genre, genre: Anime & Film }
+    summary: "Die Protagonisten setzen sich mit dem Handwerk auseinander oder drehen selbst einen Anime bzw. Film."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Anime%20%26%20Film.jpg
+
+  Außerirdische:
+    template: { name: Genre, genre: Außerirdische }
+    summary: "Einer der Protagonisten oder die Gegenspieler sind Außerirdische."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Au%C3%9Ferirdische.jpg
+
+  Auftragsmörder / Attentäter:
+    template: { name: Genre, genre: Auftragsmörder / Attentäter }
+    summary: "Mindestens einer der Protagonisten führt entweder aus persönlicher Überzeugung oder gegen Bezahlung einen Mord aus."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Auftragsm%C3%B6rder_Attent%C3%A4ter.jpg
+
+  Band:
+    template: { name: Genre, genre: Band }
+    summary: "Mindestens einer der Protagonisten spielt in einer Band."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Band.jpg
+
+  Bionische Kräfte:
+    template: { name: Genre, genre: Bionische Kräfte }
+    summary: "Die Protagonisten besitzen und benutzen Kräfte, die darauf basieren, dass ihre Körper mit Implantaten oder Biotechnologie verändert wurden."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Bionische%20Kr%C3%A4fte.jpg
+
+  Boys Love:
+    template: { name: Genre, genre: Boys Love }
+    summary: "Im Mittelpunkt stehen Liebesbeziehungen zwischen Männern. (Yaoi/Shounen Ai/Bara)"
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Boys%20Love.jpg
+
+  Büroangestellter:
+    template: { name: Genre, genre: Büroangestellter }
+    summary: "Mindestens einer der Protagonisten ist ein Büroangestellter."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/B%C3%BCroangestellter.jpg
+
+  CG-Anime:
+    template: { name: Genre, genre: CG-Anime }
+    summary: "Der Anime besteht vollständig aus computergenerierter Grafik."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/CG-Anime.jpg
+
+  Charakterstarke Heldin:
+    template: { name: Genre, genre: Charakterstarke Heldin }
+    summary: "Die weibliche Hauptfigur ist selbstbewusst und scheut keine Konfrontation."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Charakterstarke%20Heldin.jpg
+
+  Charakterstarker Held:
+    template: { name: Genre, genre: Charakterstarker Held }
+    summary: "Die männliche Hauptfigur ist selbstbewusst und scheut keine Konfrontation."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Charakterstarker%20Held.jpg
+
+  Charakterschwache Heldin:
+    template: { name: Genre, genre: Charakterschwache Heldin }
+    summary: "Die weibliche Hauptfigur ist weinerlich, devot und hat kaum Selbstbewusstsein."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Charakterschwache%20Heldin.jpg
+
+  Charakterschwacher Held:
+    template: { name: Genre, genre: Charakterschwacher Held }
+    summary: "Die männliche Hauptfigur ist weinerlich, devot und hat kaum Selbstbewusstsein."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Charakterschwacher%20Held.jpg
+
+  Cyberpunk:
+    template: { name: Genre, genre: Cyberpunk}
+    summary: "Ein Untergenre der Scifi, das in einer wenig idealisierten Zukunft spielt und sich um die Verschmelzung von Mensch und Maschine dreht (z.&thinsp;B. in Form von Cyborgs, Cyberspace usw.)."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Cyberpunk.jpg
+
+  Cyborgs:
+    template: { name: Genre, genre: Cyborgs}
+    summary: "Einer der Protagonisten oder die Gegenspieler sind Cyborgs."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Cyborgs.jpg
+
+  Dämonen:
+    template: { name: Genre, genre: Dämonen}
+    summary: "Einer der Protagonisten oder die Gegenspieler sind Dämonen (u.a. humanoide Monster, Teufel oder die japanischen Oni)."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/D%C3%A4monen.jpg
+
+  Delinquent:
+    template: { name: Genre, genre: Delinquent}
+    summary: "Eine der wichtigen Figuren ist jemand, der in der Öffentlichkeit negativ auffällt, entweder durch Ungehorsam oder durch Gewalt."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Delinquent.jpg
+
+  Denk- und Glücksspiele:
+    template: { name: Genre, genre: Denk- und Glücksspiele}
+    summary: "Die Geschichte handelt von Denk- und Glücksspielen."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Denk-%20und%20Gl%C3%BCcksspiele.jpg
+
+  Detektiv:
+    template: { name: Genre, genre: Detektiv}
+    summary: "Mindestens einer der Protagonisten arbeitet als Detektiv."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Detektiv.jpg
+
+  Dialogwitz:
+    template: { name: Genre, genre: Dialogwitz}
+    summary: "Comedy, die auf humorvollen Dialogen basiert."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Dialogwitz.jpg
+
+  Dieb:
+    template: { name: Genre, genre: Dieb}
+    summary: "Mindestens einer der Protagonisten ist ein Dieb."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Dieb.jpg
+
+  Diva:
+    template: { name: Genre, genre: Diva}
+    summary: "Eine der wichtigen Figuren ist besonders arrogant und eitel."
+    url_poster: https://raw.githubusercontent.com/Jopo-JP/AniSearch/main/Anime/Bilder/Diva.jpg

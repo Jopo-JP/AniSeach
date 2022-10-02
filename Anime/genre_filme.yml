@@ -1,0 +1,37 @@
+######################################################
+#              Anime Genre Collections               #
+#               Based on anisearch.com               #
+######################################################
+
+metadata:
+  29488: #009 Re:Cyborg (2012)
+    genre.sync: Abenteuer, Action, CG-Anime, Cyborgs, Roboter & Androiden, Scifi, Weltraum
+    label: Autumn 2012
+
+  7076: #Afro Samurai Resurrectiong (2009)
+    genre.sync: Action, Alternative Welt, Fighting-Shounen, Historisch, Komödie, Parodie, Samurai, Schwerter & Co, Scifi, Splatter, Übermäßige Gewaltdarstellung
+    label: Winter 2008/09
+
+  16630: #Ancien und das magische Königreich (2017)
+    genre.sync: Abenteuer, Drama, Dämonen, Gegenwart, Magie, Moe, Real Robots, Stoische Heldin, Tragödie
+    label: Winter 2016/17
+
+  16630: #AnoHana: Die Blume, die wir an jenem Tag sahen - The Movie (2016)
+    genre.sync: Alltagsdrama, Delinquent, Gegenwart, Geister, Komödie, Romanze, Tragödie
+    label: Summer 2013
+
+  8656: #The Anthem of the Heart (2015)
+    genre.sync: Alltagsleben, Drama, Erwachsenwerden, Gegenwart, Musik, Romanze, Schule, Theater
+    label: Summer 2015
+
+  15659: #Attack on Titan - Movie Teil 1: Feuerroter Pfeil und Bogen (2014)
+    genre.sync: Actiondrama, Alternative Welt, Fantasy, Horror, Militär, Mittelalter, Mystery, Psychodrama, Schwerter & Co, Übermäßige Gewaltdarstellung
+    label: Autumn 2014
+
+  7398: #Attack on Titan - Movie Teil 2: Flügel der Freiheit (2015)
+    genre.sync: Actiondrama, Alternative Welt, Fantasy, Horror, Militär, Mittelalter, Mystery, Psychodrama, Schwerter & Co, Übermäßige Gewaltdarstellung
+    label: Autumn 2014
+
+  13398: #Attack on Titan - Movie Teil 3: Gebrüll des Erwachens (2018)
+    genre.sync: Abenteuer, Actiondrama, Alternative Welt, Charakterstarker Held, Endzeit, Erwachsenwerden, Horror, Krieg, Militär, Mittelalter, Mystery, Psychodrama, Schwerter & Co, Splatter, Stoische Heldin, Tragödie, Übermäßige Gewaltdarstellung
+    label: Winter 2017/18
